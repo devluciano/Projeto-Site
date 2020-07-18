@@ -1,4 +1,4 @@
-# projeto-site
+# Projeto-Site
  Projeto de um site criado durante o curso de Git e GitHub
 
  Foi criado nesse projeto 2 Braches, para criar todo o conteúdo e design.
